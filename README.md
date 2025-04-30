@@ -1,2 +1,2 @@
 # Course-APP
-Course App for National Education Policy Project
+Course App Chatbot for National Education Policy Project
